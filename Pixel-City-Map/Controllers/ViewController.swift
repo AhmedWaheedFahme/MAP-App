@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MapVC.swift 
 //  Pixel-City-Map
 //
 //  Created by Ahmed Waheed on 8/25/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MapVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

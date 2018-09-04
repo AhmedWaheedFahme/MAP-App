@@ -4,18 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pixel-City-Map.xcscheme</key>
+		<key>Alamofire.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
-	</dict>
-	<key>SuppressBuildableAutocreation</key>
-	<dict>
-		<key>7E1BDC202131CDA5007E6821</key>
+		<key>AlamofireImage.xcscheme</key>
 		<dict>
-			<key>primary</key>
-			<true/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-Pixel-City-Map.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 </dict>
